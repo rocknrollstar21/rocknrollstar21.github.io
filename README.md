@@ -4,7 +4,6 @@
 
 
 ```markdown
-Syntax highlighted code block
 
 #9모 대박!
 
