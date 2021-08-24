@@ -1,13 +1,8 @@
-## Welcome to GitHub Pages
+## 남한고등학교 3학년 8반 허술한 학급홈피 이게뭐지
 
-You can use the [editor on GitHub](https://github.com/rocknrollstar21/rocknrollstar21.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+###빠밤
 ![maintitle](https://user-images.githubusercontent.com/89489967/130700407-c1426a06-5829-4431-b756-6768296fdb70.JPG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
