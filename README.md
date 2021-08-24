@@ -18,8 +18,3 @@
 
 1. 우선순위 정하기
 2. 틈날 때마다 준비하기
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
